@@ -1,2 +1,7 @@
+<<<<<<< .mine
 this is a file from develop branch
 
+=======
+this is a file from testforconflict branch
+
+>>>>>>> .theirs
